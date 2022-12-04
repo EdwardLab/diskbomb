@@ -2,7 +2,7 @@
 #include<iostream>
 #include<stdlib.h>
 #include<cstdlib>
-#include<random>
+
 using namespace std;
 
 int diskbomb(int whilenum, string writestr, string path)
